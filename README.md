@@ -1,14 +1,14 @@
-# Hi, I'm Gowtham Avilala 👋
+# 👋 Hi, I'm Gowtham Avilala
 
-DevOps / DevSecOps Engineer with 5+ years of IT experience, transitioning from Technical Support into Cloud, DevOps, and Security-focused roles.
+DevOps / DevSecOps Engineer with 5+ years of IT experience transitioning from Technical Support into Cloud, DevOps, and Security-focused roles.
 
-I specialize in building **reliable, automated, and secure infrastructure** using AWS, Linux, containers, CI/CD pipelines, and Infrastructure as Code.
+I build **reliable, automated, and secure infrastructure** using AWS, Linux, containers, CI/CD pipelines, and Infrastructure as Code.
 
 ---
 
-## 🔧 Skills & Tools
+## 🌟 Core Competencies
 
-**Cloud & OS**
+**Cloud & Infrastructure**
 - AWS (EC2, IAM, VPC, ALB, S3)
 - Linux (Ubuntu, Bash scripting)
 
@@ -16,63 +16,57 @@ I specialize in building **reliable, automated, and secure infrastructure** usin
 - Git & GitHub
 - Docker & Docker Compose
 - CI/CD (GitHub Actions)
-- Terraform (Infrastructure as Code)
+- Terraform (IaC)
 - Kubernetes & Helm
 
 **DevSecOps / Security**
 - Secure CI/CD pipelines
 - Container vulnerability scanning (Trivy)
 - Secrets management & IAM hardening
-- OWASP Top 10 (basic)
+- Basic OWASP Top 10 security
 - CompTIA Security+ (SY0-701) – *In Progress*
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Click to Explore)
 
-🔹 **DevSecOps CI/CD Pipeline**
-- Automated build, test, Docker image creation
-- Integrated Trivy vulnerability scanning
-- Infrastructure provisioned using Terraform on AWS
-- Deployed application behind Application Load Balancer
+🔹 **DevSecOps CI/CD Pipeline**  
+Automated end-to-end pipeline with build, tests, container scans and cloud deployment.  
+Technologies: GitHub Actions, Docker, Trivy, Terraform, AWS
 
-🔹 **Kubernetes DevSecOps Platform**
-- Dockerized application deployed on Kubernetes
-- Helm-based deployment
-- RBAC and Secrets implemented
-- Monitoring using Prometheus & Grafana
+🔹 **Kubernetes DevSecOps Platform**  
+Dockerized app deployed on Kubernetes with Helm, RBAC, and monitoring.  
+Technologies: Kubernetes, Helm, Prometheus, Grafana
 
-🔹 **AWS Infrastructure Automation**
-- VPC, EC2, ALB, Security Groups using Terraform
-- IAM role-based access control
-- Blue-Green deployment strategy
+🔹 **AWS Infrastructure Automation**  
+Provisioned secure AWS infrastructure using Terraform.  
+Technologies: Terraform, AWS VPC, EC2, IAM
+
+*(Each project has its README explaining setup + learnings.)*
 
 ---
 
-## 📚 What I'm Currently Working On
+## 📚 Currently Learning
 
-- Strengthening Kubernetes & cloud security
-- Preparing for **CompTIA Security+ (SY0-701)**
-- Building production-ready DevSecOps projects
-- Improving system reliability and automation
+- Deepening Kubernetes and cloud security skills  
+- Building production-grade DevSecOps projects  
+- Preparing for **CompTIA Security+ SY0-701 exam**
 
 ---
 
-## 📈 Career Focus
+## 🚀 Career Focus
 
-- DevOps Engineer
-- Cloud Engineer
+- DevOps Engineer  
+- Cloud/Platform Engineer  
 - Junior–Mid DevSecOps Engineer
 
-Open to roles where I can **learn, build, and grow while maintaining system reliability and security**.
+I’m interested in roles where I can **design secure, automated systems** and grow as a technology professional.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: <your-linkedin-url>
-- Email: <gowthamkumar14090@gmail.com>
+- LinkedIn: <your-LinkedIn-URL>  
+- Email: gowthamkumar14090@gmail.com
 
----
-
-⭐ *I believe strong fundamentals, continuous learning, and calm execution create long-term growth and a peaceful career.*
+⭐ I believe **continuous learning + thoughtful execution** are the foundations of a rewarding tech career.
