@@ -153,7 +153,7 @@ currently_exploring:
 I'm always open to discussing **SRE best practices**, **cloud architecture**, and **open source tooling**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gavilala)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:havochero26@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamkumar14090@gmail.com)
 
 <br/>
 
