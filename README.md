@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Gowtham Gavilala
+name: Gowtham Avilala
 role: Site Reliability Engineer | DevOps Engineer
 focus:
   - Cloud-native infrastructure design & automation
